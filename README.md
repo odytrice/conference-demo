@@ -2,7 +2,7 @@
 
 Built with Spring Boot Connects to a Postgres Database
 
-## Pre-Requisites
+## Prerequisites
 You need to have
 - JDK installed and added to your Path
 - Docker Installed
